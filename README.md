@@ -1,6 +1,4 @@
-# asynchronous programming
-
-### Asynchronous programming:
+# Asynchronous programming:
 
 | **Describing** | **Link** |
 | -------------------- | :--------------------- |
